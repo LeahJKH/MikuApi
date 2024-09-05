@@ -11,8 +11,5 @@
       "src": "/(.*)",
       "dest": "index.js"
     }
-  ],
-  "files": {
-    "json": ["json/vocaloids.json", "json/mikuTimeLine.json", "json/mikuFacts.json"]
-  }
+  ]
 }
