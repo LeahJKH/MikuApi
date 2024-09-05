@@ -13,7 +13,7 @@ const mikuFacts = JSON.parse(fs.readFileSync(path.join(__dirname, "json/mikuFact
 
 // Create GET request
 app.get("/", (req, res) => {
-  res.send("up and running");
+  res.send("up and running! welcome too miku api read docs on how too use. https://github.com/LeahJKH/MikuApiGithub");
 });
 app.get("/vocaloids", (req, res) => {
   res.json(vocaloids);
