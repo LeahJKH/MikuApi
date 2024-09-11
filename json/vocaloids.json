@@ -147,11 +147,18 @@
         "image": "https://miku-api.vercel.app/vocaloids/vo51.webp"
     },
     {
-        "name": "V1 Kaito",
+        "name": "Kaito",
         "codename": "TARO",
         "introduction": "VOCALOID",
-        "version": "Original",
+        "version": "V1",
         "image": "https://miku-api.vercel.app/vocaloids/vo1.webp"
+    },
+    {
+        "name": "Kaito",
+        "codename": "TARO",
+        "introduction": "VOCALOID",
+        "version": "V3 standard",
+        "image": "https://miku-api.vercel.app/vocaloids/vo2.webp"
     },
     {
         "name": "Gumi/Megpoid",
@@ -245,6 +252,13 @@
         "image": "https://miku-api.vercel.app/vocaloids/vo3.webp"
     },
     {
+        "name": "Meiko",
+        "codename": "HANAKO",
+        "introduction": "VOCALOID",
+        "version": "V3 standard",
+        "image": "https://miku-api.vercel.app/vocaloids/vo4.webp"
+    },
+    {
         "name": "Miriam",
         "codename": "none",
         "introduction": "VOCALOID",
@@ -301,32 +315,39 @@
         "image":"https://miku-api.vercel.app/vocaloids/vo21.webp"
     },
     {
-        "name": "standard SONiKA",
+        "name": "SONiKA",
         "codename":"ZGV5",
         "introduction":"VOCALOID2",
         "version":"V2 standard",
         "image":"https://miku-api.vercel.app/vocaloids/vo22.webp"
     },
     {
-        "name": "Debute SONiKA",
+        "name": "SONiKA",
         "codename":"ZGV5",
         "introduction":"VOCALOID2",
         "version":"V2 Debute",
         "image":"https://miku-api.vercel.app/vocaloids/vo23.webp"
     },
     {
-        "name": "Chinese SONiKA",
+        "name": "SONiKA",
         "codename":"ZGV5",
         "introduction":"VOCALOID2",
         "version":"V2 Chinese",
         "image":"https://miku-api.vercel.app/vocaloids/vo24.webp"
     },
     {
-        "name": "Taiwanese SONiKA",
+        "name": "SONiKA",
         "codename":"ZGV5",
         "introduction":"VOCALOID2",
         "version":"V2 Taiwanese",
         "image":"https://miku-api.vercel.app/vocaloids/vo25.webp"
+    },
+    {
+        "name": "SONiKA",
+        "codename":"ZGV5",
+        "introduction":"VOCALOID2",
+        "version":"V4 concept",
+        "image":"https://miku-api.vercel.app/vocaloids/vo26.webp"
     },
     {
         "name": "SF-A2 codename miki",

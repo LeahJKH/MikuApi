@@ -8,42 +8,39 @@ too Miku fans. i am myself a miku fan. thank you for supporting our queen and th
 
 i will add more and more stuff like Vocaloid lists (Vocaloid 3 underway), finsish timeline, songs(maybe) <br>
 
-now i have added vercel too miku api so its loaded diffrently will com out more for now old version works too 
+this is the vercel one the main link is
+www.miku-api.vercel.app/
 
-## json file:
-# funfact:
-I have since learned of RAW usage so i will convert it but still keep the pages version for people intrested <br>
-"https://raw.githubusercontent.com/LeahJKH/MikuApiGithub/main/json/mikuFacts.json" <br>
-this is the raw link ^ 
+# jump too
+[Json](#json-files)
+-[Fun facts](#funfact)
+-[Timeline](#miku-timeline)
+-[Vocaloids](#vocaloids)
+[images](#images)
+[Example sites](#example-sites)
 <br>
-"https://leahjkh.github.io/MikuApiGithub/json/mikuFacts.json" <br>
-do as you would an api <br>
+<br>
+
+## json files:
+# funfact:
+"https://miku-api.vercel.app/mikuFacts" <br>
+this is the link ^ 
+
 its an array so remember index <br>
 253 objects <br>
 251 indexes <br>
 <br>
-Example in typescript:
-```ts
-const fetchData = async () => {
-            try {
-                const response = await fetch(url);
-                const data = await response.json();
-            } catch (error) {
-                console.error("Error fetching data:", error);
-            }
-        };
-```
 
 # miku timeline
 
-"https://raw.githubusercontent.com/LeahJKH/MikuApiGithub/main/json/mikuTimeLine.json" <br>
-this is the raw link ^ 
-<br>
-"https://leahjkh.github.io/MikuApiGithub/json/MikuTimeLine.json" <br>
-github pages ^
+"https://miku-api.vercel.app/MikuTimeLine" <br>
+this is the link ^
 <br>
 do as you would an api <br>
 its an array object so remember index <br>
+<br>
+this is how its set up: 
+
 ```json
 [
     {
@@ -54,12 +51,11 @@ its an array object so remember index <br>
 ```
 
 # vocaloids
-the raw for this:
-"https://github.com/LeahJKH/MikuApiGithub/blob/main/json/vocaloids.json" 
-<br>
-<br>
-"https://leahjkh.github.io/MikuApiGithub/json/vocaloids.json" <br>
-its set up as an array with objects
+"https://miku-api.vercel.app/vocaloids" <br>
+this is the link ^ <br>
+its set up as an array with objects<br>
+here is an example 
+
 ```json
 [
     {
@@ -67,18 +63,20 @@ its set up as an array with objects
         "codename":"",
         "introduction":"",
         "Version":"",
-        "image":"[currently not implimented fully. VOCALOID has images, and some VOCALOID2 (refer too list)]"
+        "image":""
     }
 ]
 ```
-Currently it has 64 diffrent vocaloids <br>
+Currently it has 86 diffrent vocaloids <br>
 All of the original VOCALOID and VOCALOID 2 <br>
 Currently doing VOCALOID3 <br>
 
 ## images:
-### current working:
 
-"https://leahjkh.github.io/MikuApiGithub/images/(add_the_right_folder_here)/(add_the_code_and_index_here).webp"
+
+"https://miku-api.vercel.app/(add_the_right_folder_here)/(add_the_code_and_index_here).webp"<br>
+example on this would be <br>
+"https://miku-api.vercel.app/pfp/pfp12.webp"
 
 folders:
 <details>
@@ -249,3 +247,8 @@ vocaloids(file name pfp[index]) {<br>
 }
 
 </details>
+
+# example sites:
+html, css, javascript:
+https://github.com/LeahJKH/MikuShowcase
+
