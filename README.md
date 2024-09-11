@@ -10,6 +10,9 @@ i will add more and more stuff like Vocaloid lists (Vocaloid 3 underway), finsis
 
 this is the vercel one the main link is
 www.miku-api.vercel.app/
+<br>
+too run this api locally do: <br>
+npm run miku <br>
 
 # jump too
 [Json](#json-files)
