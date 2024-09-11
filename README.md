@@ -1,9 +1,9 @@
 # how too use the mikuvite
 
 ## First off
-if you see anything wrong gladly give me an issue and none of the things in this is owned by me so use with caution, !!DO NOT 
+if you see anything wrong gladly give me an issue and none of the things in this is owned by me so use with caution, !!DO NOT USE FOR COMERCIAL USE!!
 ### !DISCLAIMER!
-all of this is thanks USE FOR COMERCIAL USE!! <br>
+all of this is thanks <br>
 too Miku fans. i am myself a miku fan. thank you for supporting our queen and thanks too all the creators of the images and wikis! <3 also thanks too miku for being great in general <br>
 
 i will add more and more stuff like Vocaloid lists (Vocaloid 3 underway), finsish timeline, songs(maybe) <br>
@@ -15,12 +15,12 @@ too run this api locally do: <br>
 npm run miku <br>
 
 # jump too
-[Json](#json-files)
--[Fun facts](#funfact)
--[Timeline](#miku-timeline)
--[Vocaloids](#vocaloids)
-[images](#images)
-[Example sites](#example-sites)
+[Json](#json-files) <br>
+-[Fun facts](#funfact) <br>
+-[Timeline](#miku-timeline) <br>
+-[Vocaloids](#vocaloids) <br>
+[images](#images) <br>
+[Example sites](#example-sites) <br>
 <br>
 <br>
 
