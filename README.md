@@ -1,4 +1,4 @@
-# how too use the mikuvite
+# how too use the Miku Api
 
 ## First off
 if you see anything wrong gladly give me an issue and none of the things in this is owned by me so use with caution, !!DO NOT USE FOR COMERCIAL USE!!
