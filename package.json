@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "miku": "echo \"miku is running :3\" && node ."
+"miku": "echo \"miku is running :3\" && node . && echo \"http://localhost:8001\""
   },
   "keywords": [],
   "author": "",
