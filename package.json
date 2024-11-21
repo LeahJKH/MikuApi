@@ -6,7 +6,7 @@
 "miku": "echo \"miku is running :3\" && node . && echo \"http://localhost:8001\""
   },
   "keywords": [],
-  "author": "",
+  "author": "CyberYoi",
   "license": "ISC",
   "description": "",
   "dependencies": {
